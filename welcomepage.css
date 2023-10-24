@@ -1,0 +1,46 @@
+body{
+  background-color:peachpuff
+ 
+}
+.welcome-page {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:aquamarine; 
+    border: 2px solid #333; 
+    border-radius: 10px; 
+    margin-top: 0px;
+    padding: 50px; 
+    width: 400px; /* Set a fixed width for the box */
+    margin: 0 auto; /* Center align the box horizontally */
+    text-align: center; 
+  }
+  
+  .welcome-page h1 {
+    font-size: 24px; /* Larger font size for the main title */
+    margin: 10px 0; /* Margin above and below the title */
+  }
+  
+  .welcome-page h2 {
+    font-size: 20px; /* Slightly smaller font size for secondary titles */
+    margin: 10px 0; /* Margin above and below secondary titles */
+  }
+  
+  .welcome-page h3 {
+    font-size: 16px; /* Smaller font size for the description */
+    margin: 10px 0; /* Margin above and below the description */
+  }
+  
+  .welcome-page button {
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 10px 20px; /* Button padding */
+    border: none; /* No button border */
+    border-radius: 5px; /* Rounded button corners */
+    font-size: 16px; /* Button text font size */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    margin-top: 20px; /* Margin at the top of the button */
+  }
+  
+  .welcome-page button a {
+    text-decoration: none; /* Remove the underline from the link */
+    color: #fff; /* Text color for the link inside the button */
+  }
